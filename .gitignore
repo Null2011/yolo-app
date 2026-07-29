@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# YOLO の重み（自動ダウンロードされるのでリポジトリに含めない）
+*.pt
+
+# OS
+.DS_Store
+Thumbs.db
